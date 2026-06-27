@@ -150,3 +150,15 @@ AI-Research-Paper-Assistant/
 * Research Paper Analysis
 * Knowledge Retrieval
 * Scientific Document Understanding
+
+
+## Screenshots
+
+### Pdf upload
+![Home Page](pdf_upload.png)
+
+### Papper Comparision
+![Papper comparison](papper_comparison.png)
+
+### Research Insight
+![Insight](research_insight.png)
