@@ -157,8 +157,8 @@ AI-Research-Paper-Assistant/
 ### Pdf upload
 ![Upload pdf](pdf_upload.png)
 
-### Papper Comparision
-![Comparision](papper_comparision.png)
+### Papper Comparison
+![Comparison](papper_comparison.png)
 
 ### Research Insight
 ![Insight](research_insight.png)
